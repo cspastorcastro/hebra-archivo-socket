@@ -1,0 +1,7 @@
+T:\hebra-archivo-socket\Mensajero\ServerSocket\bin\Debug\ServerSocket.exe.config
+T:\hebra-archivo-socket\Mensajero\ServerSocket\bin\Debug\ServerSocket.exe
+T:\hebra-archivo-socket\Mensajero\ServerSocket\bin\Debug\ServerSocket.pdb
+T:\hebra-archivo-socket\Mensajero\ServerSocket\obj\Debug\SocketServidor.csproj.AssemblyReference.cache
+T:\hebra-archivo-socket\Mensajero\ServerSocket\obj\Debug\SocketServidor.csproj.CoreCompileInputs.cache
+T:\hebra-archivo-socket\Mensajero\ServerSocket\obj\Debug\ServerSocket.exe
+T:\hebra-archivo-socket\Mensajero\ServerSocket\obj\Debug\ServerSocket.pdb

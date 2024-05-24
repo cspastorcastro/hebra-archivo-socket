@@ -1,0 +1,10 @@
+T:\hebra-archivo-socket\Mensajero\Mensajero\bin\Debug\Mensajero.exe.config
+T:\hebra-archivo-socket\Mensajero\Mensajero\bin\Debug\Mensajero.exe
+T:\hebra-archivo-socket\Mensajero\Mensajero\bin\Debug\Mensajero.pdb
+T:\hebra-archivo-socket\Mensajero\Mensajero\bin\Debug\MensajeroModel.dll
+T:\hebra-archivo-socket\Mensajero\Mensajero\bin\Debug\MensajeroModel.pdb
+T:\hebra-archivo-socket\Mensajero\Mensajero\obj\Debug\Mensajero.csproj.AssemblyReference.cache
+T:\hebra-archivo-socket\Mensajero\Mensajero\obj\Debug\Mensajero.csproj.CoreCompileInputs.cache
+T:\hebra-archivo-socket\Mensajero\Mensajero\obj\Debug\Mensajero.csproj.Up2Date
+T:\hebra-archivo-socket\Mensajero\Mensajero\obj\Debug\Mensajero.exe
+T:\hebra-archivo-socket\Mensajero\Mensajero\obj\Debug\Mensajero.pdb

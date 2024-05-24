@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\hebra-archivo-socket\\Mensajero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177B5D93-E4EC-4A8D-B7B3-347B86A10329}|Mensajero\\Mensajero.csproj|t:\\hebra-archivo-socket\\mensajero\\mensajero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B5D93-E4EC-4A8D-B7B3-347B86A10329}|Mensajero\\Mensajero.csproj|solutionrelative:mensajero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1974DB57-B740-40E8-8EB7-3621D94BEBBB}|ServerSocket\\ServerSocket.csproj|t:\\hebra-archivo-socket\\mensajero\\serversocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1974DB57-B740-40E8-8EB7-3621D94BEBBB}|ServerSocket\\ServerSocket.csproj|solutionrelative:serversocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1974DB57-B740-40E8-8EB7-3621D94BEBBB}|ServerSocket\\SocketServidor.csproj|t:\\hebra-archivo-socket\\mensajero\\serversocket\\comunicacion\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1974DB57-B740-40E8-8EB7-3621D94BEBBB}|ServerSocket\\SocketServidor.csproj|solutionrelative:serversocket\\comunicacion\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B5D93-E4EC-4A8D-B7B3-347B86A10329}|Mensajero\\Mensajero.csproj|t:\\hebra-archivo-socket\\mensajero\\mensajero\\comunicacion\\clientesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B5D93-E4EC-4A8D-B7B3-347B86A10329}|Mensajero\\Mensajero.csproj|solutionrelative:mensajero\\comunicacion\\clientesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1974DB57-B740-40E8-8EB7-3621D94BEBBB}|ServerSocket\\SocketServidor.csproj|t:\\hebra-archivo-socket\\mensajero\\serversocket\\comunicacion\\clientecom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1974DB57-B740-40E8-8EB7-3621D94BEBBB}|ServerSocket\\SocketServidor.csproj|solutionrelative:serversocket\\comunicacion\\clientecom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885A6A1F-76B8-4EB0-B765-1A2535F5FD29}|MensajeroModel\\MensajeroModel.csproj|t:\\hebra-archivo-socket\\mensajero\\mensajeromodel\\dto\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885A6A1F-76B8-4EB0-B765-1A2535F5FD29}|MensajeroModel\\MensajeroModel.csproj|solutionrelative:mensajeromodel\\dto\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885A6A1F-76B8-4EB0-B765-1A2535F5FD29}|MensajeroModel\\MensajeroModel.csproj|t:\\hebra-archivo-socket\\mensajero\\mensajeromodel\\dal\\imensajesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885A6A1F-76B8-4EB0-B765-1A2535F5FD29}|MensajeroModel\\MensajeroModel.csproj|solutionrelative:mensajeromodel\\dal\\imensajesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885A6A1F-76B8-4EB0-B765-1A2535F5FD29}|MensajeroModel\\MensajeroModel.csproj|t:\\hebra-archivo-socket\\mensajero\\mensajeromodel\\dal\\mensajesdalarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885A6A1F-76B8-4EB0-B765-1A2535F5FD29}|MensajeroModel\\MensajeroModel.csproj|solutionrelative:mensajeromodel\\dal\\mensajesdalarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1974DB57-B740-40E8-8EB7-3621D94BEBBB}|ServerSocket\\ServerSocket.csproj|t:\\hebra-archivo-socket\\mensajero\\serversocket\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1974DB57-B740-40E8-8EB7-3621D94BEBBB}|ServerSocket\\ServerSocket.csproj|solutionrelative:serversocket\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B5D93-E4EC-4A8D-B7B3-347B86A10329}|Mensajero\\Mensajero.csproj|t:\\hebra-archivo-socket\\mensajero\\mensajero\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{177B5D93-E4EC-4A8D-B7B3-347B86A10329}|Mensajero\\Mensajero.csproj|solutionrelative:mensajero\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteSocket.cs",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\Mensajero\\Comunicacion\\ClienteSocket.cs",
+              "RelativeDocumentMoniker": "Mensajero\\Comunicacion\\ClienteSocket.cs",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\Mensajero\\Comunicacion\\ClienteSocket.cs",
+              "RelativeToolTip": "Mensajero\\Comunicacion\\ClienteSocket.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwD4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:36:02.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\Mensajero\\App.config",
+              "RelativeDocumentMoniker": "Mensajero\\App.config",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\Mensajero\\App.config",
+              "RelativeToolTip": "Mensajero\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T23:33:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteCom.cs",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\ServerSocket\\Comunicacion\\ClienteCom.cs",
+              "RelativeDocumentMoniker": "ServerSocket\\Comunicacion\\ClienteCom.cs",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\ServerSocket\\Comunicacion\\ClienteCom.cs",
+              "RelativeToolTip": "ServerSocket\\Comunicacion\\ClienteCom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:13:56.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerSocket.cs",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\ServerSocket\\Comunicacion\\ServerSocket.cs",
+              "RelativeDocumentMoniker": "ServerSocket\\Comunicacion\\ServerSocket.cs",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\ServerSocket\\Comunicacion\\ServerSocket.cs",
+              "RelativeToolTip": "ServerSocket\\Comunicacion\\ServerSocket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:13:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\ServerSocket\\App.config",
+              "RelativeDocumentMoniker": "ServerSocket\\App.config",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\ServerSocket\\App.config",
+              "RelativeToolTip": "ServerSocket\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T23:03:11.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\ServerSocket\\Program.cs",
+              "RelativeDocumentMoniker": "ServerSocket\\Program.cs",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\ServerSocket\\Program.cs",
+              "RelativeToolTip": "ServerSocket\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:03:00.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MensajesDALArchivos.cs",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\MensajeroModel\\DAL\\MensajesDALArchivos.cs",
+              "RelativeDocumentMoniker": "MensajeroModel\\DAL\\MensajesDALArchivos.cs",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\MensajeroModel\\DAL\\MensajesDALArchivos.cs",
+              "RelativeToolTip": "MensajeroModel\\DAL\\MensajesDALArchivos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:31:34.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMensajesDAL.cs",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\MensajeroModel\\DAL\\IMensajesDAL.cs",
+              "RelativeDocumentMoniker": "MensajeroModel\\DAL\\IMensajesDAL.cs",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\MensajeroModel\\DAL\\IMensajesDAL.cs",
+              "RelativeToolTip": "MensajeroModel\\DAL\\IMensajesDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:31:22.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\MensajeroModel\\DTO\\Mensaje.cs",
+              "RelativeDocumentMoniker": "MensajeroModel\\DTO\\Mensaje.cs",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\MensajeroModel\\DTO\\Mensaje.cs",
+              "RelativeToolTip": "MensajeroModel\\DTO\\Mensaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:31:09.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\hebra-archivo-socket\\Mensajero\\Mensajero\\Program.cs",
+              "RelativeDocumentMoniker": "Mensajero\\Program.cs",
+              "ToolTip": "T:\\hebra-archivo-socket\\Mensajero\\Mensajero\\Program.cs",
+              "RelativeToolTip": "Mensajero\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:28:30.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

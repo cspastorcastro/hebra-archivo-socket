@@ -1,0 +1,6 @@
+T:\hebra-archivo-socket\Mensajero\MensajeroModel\bin\Debug\MensajeroModel.dll
+T:\hebra-archivo-socket\Mensajero\MensajeroModel\bin\Debug\MensajeroModel.pdb
+T:\hebra-archivo-socket\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.csproj.AssemblyReference.cache
+T:\hebra-archivo-socket\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.csproj.CoreCompileInputs.cache
+T:\hebra-archivo-socket\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.dll
+T:\hebra-archivo-socket\Mensajero\MensajeroModel\obj\Debug\MensajeroModel.pdb

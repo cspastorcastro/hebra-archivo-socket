@@ -1,0 +1,14 @@
+carlu;holaa;Aplicación
+Servidor;hello;TCP
+carlu;aaaaaaa;Aplicación
+carlu;holaa;Aplicación
+Servidor;holaaaaa;TCP
+carlu;hola;Aplicación
+Servidor;holasdkljdfs;TCP
+carlu;hola;Aplicación
+Servidor;[Cliente]: hola;TCP
+;hola;Aplicación
+Servidor;hola;TCP
+carlu;holaa;Aplicación
+Servidor;test;TCP
+carlu;eeeeeee;Aplicación
